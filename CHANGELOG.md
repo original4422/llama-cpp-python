@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- fix(embed): respect physical batch limits for non-causal embeddings by @original4422
+- fix(embed): respect physical batch limits for non-causal embeddings by @original4422 in #2387
 
 ## [0.3.36]
 
